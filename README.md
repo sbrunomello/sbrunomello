@@ -1,4 +1,4 @@
-### Hi there 👋
+### - 🔭 I’m currently working at Cingo as a Fullstack Developer
 
 <!--
 **sbrunomello/sbrunomello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
