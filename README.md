@@ -1,4 +1,6 @@
 
+
+<br/> :mortar_board: &nbsp; I'm currently at Cingo as a Fullstack Developer Java.
 <br/> :mortar_board: &nbsp; I'm studying System Analysis and Development at Estacio.
 <br/> :computer: &nbsp; I’m currently learning JS stack (Node.JS, Angular, JavaScript and TypeScript).
 <br/> :computer: &nbsp; I have knowledge in Java, PostgreSQL, SQLServer, HTML and CSS.
