@@ -6,6 +6,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&exclude_repo=analise-facial&layout=compact&langs_count=16&theme=highcontrast"/>
   </a>
 <div>
+<br>
 <div style="display: inline_block; margin-bottom: 20px;"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
