@@ -2,7 +2,7 @@
   <a href="https://github.com/sbrunomello">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sbrunomello&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&exclude_repo=analise-facial&layout=compact&langs_count=16&theme=highcontrast"/>
-  </a>
+ 
 <div>
 <br>
 <div style="display: inline_block; margin-bottom: 20px;"><br>
@@ -21,5 +21,5 @@
  <a href = "mailto: sbrunomello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sbrunomello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <br><br>
-  
+   </a>
 ![Profile views](https://gpvc.arturio.dev/sbrunomello)  
