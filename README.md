@@ -1,11 +1,9 @@
 <div>
   <a href="https://github.com/sbrunomello">
-    <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=sbrunomello&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=sbrunomello&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sbrunomello&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&exclude_repo=analise-facial&layout=compact&langs_count=16&theme=highcontrast"/>
+
  
 <div>
 <br>
