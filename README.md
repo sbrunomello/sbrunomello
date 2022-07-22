@@ -3,6 +3,8 @@
 
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=sbrunomello&title_color=ff3068&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=issues,contribs"></a>
   <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=sbrunomello&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  
+  <img src="https://media4.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif" width="20%" height="auto"/></a>
 
  
 <div>
