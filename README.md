@@ -51,18 +51,4 @@
   
     
     
-![Profile views](https://gpvc.arturio.dev/sbrunomello)  
-<br><br><br>
-                                                                     
-<div>
-  <label>
-    <pre>
-                                                     _______     __   .__      ____                  
-                                              ____  \   _  \  _/  |_ |  |__  /_   |  ____     ____  
-                                             /    \ /  /_\  \ \   __\|  |  \  |   | /    \   / ___\ 
-                                            |   |  \\  \_/   \ |  |  |   Y  \ |   ||   |  \ / /_/  >
-                                            |___|  / \_____  / |__|  |___|  / |___||___|  / \___  / 
-                                                 \/        \/             \/            \/ /_____/  
-
-  </label>
-</div>
+![Profile views](https://gpvc.arturio.dev/sbrunomello)
