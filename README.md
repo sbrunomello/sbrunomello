@@ -1,8 +1,5 @@
 <div>
   <a href="https://github.com/sbrunomello">
-
-  <a href="https://github.com/sbrunomello"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=sbrunomello&title_color=ff3068&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=issues,contribs"></a>
-  <a href="https://github.com/sbrunomello"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=sbrunomello&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
   
 
  
@@ -48,7 +45,3 @@
 <a href="https://www.linkedin.com/in/sbrunomello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/sbrunomello"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sbrunomello?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 <br><br>
-  
-    
-    
-![Profile views](https://gpvc.arturio.dev/sbrunomello)
