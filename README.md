@@ -1,34 +1,12 @@
-<div>
-  <a href="https://github.com/sbrunomello">
-  
+<h1>Hello There! 👋</h1>
 
- 
-<div>
-<br>
-
-<br>
-  
-   </a>
-<br>
-
-<br><br>
-
-
-<div align="left">
-  [![Bruno Mello top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
-
-
-<h1>Hello! 👋</h1>
-
-<a href="https://github.com/sbrunomello"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fsbrunomello"/></a>
+<br><a href="https://github.com/sbrunomello"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fsbrunomello"/></a>
 <a href = "mailto: sbrunomello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sbrunomello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://github.com/sbrunomello"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sbrunomello?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+<a href="https://github.com/sbrunomello"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sbrunomello?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a><br>
 
 ## My name is Bruno Mello
+
 <div style="display: inline_block; margin-bottom: 20px;"><br>
 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -47,9 +25,9 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
 </div>
 - 👩‍💻 Full stack Developer
-<div align="left">
+<div align="left"><br>
   [![Bruno Mello top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 </div>
