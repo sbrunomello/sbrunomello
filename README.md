@@ -21,5 +21,5 @@
 
 
 <div align="left">
-  [![Mello top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  [![Bruno Mello top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 </div>
