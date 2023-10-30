@@ -2,7 +2,7 @@
 
 ## My name is Bruno Mello
 </div><br>
--  I'm a Full stack Developer since 2019 👩‍💻
+-  I'm a Full stack Developer since 2019 👩‍💻 <br>
 -  I like working with Java, Angular and Python 💻
 
 <div align="left">
