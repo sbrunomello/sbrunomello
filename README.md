@@ -27,7 +27,7 @@
 </div>
 <br>
 </a>
-[![Bruno Mello top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Bruno Mello top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <a href="https://github.com/sbrunomello"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fsbrunomello"/></a>
 <a href = "mailto: sbrunomello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
