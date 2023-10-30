@@ -35,4 +35,4 @@
 <a href="https://github.com/sbrunomello"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sbrunomello?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 <br><br>
 
-[![Bruno Mello top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+
