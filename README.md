@@ -29,5 +29,4 @@
 </div><br>
 -  I'm a Full stack Developer since 2019 👩‍💻
 <div align="left"><br>
-  [![Bruno Mello top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+ ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=sbrunomello&show_icons=true&theme=transparent)
