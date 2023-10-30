@@ -2,6 +2,13 @@
 
 ## My name is Bruno Mello
 
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
+</div><br>
+-  I'm a Full stack Developer since 2019 👩‍💻
+-  I like working with Java, Angular and Python 💻
+
+<div align="left">
+
 <div style="display: inline_block; margin-bottom: 20px;"><br>
 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -20,10 +27,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
-</div><br>
--  I'm a Full stack Developer since 2019 👩‍💻
-<div align="left">
+
   
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=dark)
  </div>
