@@ -29,4 +29,4 @@
 </div><br>
 -  I'm a Full stack Developer since 2019 👩‍💻
 <div align="left"><br>
- ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=sbrunomello&show_icons=true&theme=transparent)
+ [![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=sbrunomello&show_icons=true&theme=transparent)]
