@@ -11,7 +11,8 @@
 
 -  I'm a Full stack Developer since 2019 👩‍💻 <br>
 -  I like working with Java, Angular and Python 💻 <br>
--  I enjoy learning and applying knowledge, believing that continuous improvement is key! 🚀
+-  I enjoy learning and applying knowledge 🤓 <br>
+-  Believing that continuous improvement is key! 🚀
 </div>
 
 
