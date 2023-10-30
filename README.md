@@ -30,5 +30,5 @@
 -  I'm a Full stack Developer since 2019 👩‍💻
 <div align="left">
   
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=dark)]
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=dark)
  </div>
