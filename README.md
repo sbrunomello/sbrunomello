@@ -30,6 +30,6 @@
 -  I'm a Full stack Developer since 2019 👩‍💻
 <div align="left">
   
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=dark)]
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sbrunomello&show_icons=true&theme=dark)]
  </div>
