@@ -1,6 +1,6 @@
 
 ## Hello 👋! My name is Bruno Mello 
-<img align="right" alt="( ͡° ͜ʖ ͡°)" src="./monkey-developer.gif"  width="300px"/>
+<img align="right" alt=" ͡° ͜ʖ ͡°" src="./monkey-developer.gif"  width="300px"/>
 <div align="left">
 <br><a href="https://www.instagram.com/brunomello.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/sbrunomello"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fsbrunomello"/></a>
@@ -12,7 +12,7 @@
 -  I'm a Full stack Developer since 2019 👩‍💻 <br>
 -  I like working with Java, Angular and Python 💻 <br>
 -  I enjoy learning and applying knowledge 🤓 <br>
--  Believing that continuous improvement is key! 🚀
+-  Continuous improvement is key! 🚀
 </div>
 
 
