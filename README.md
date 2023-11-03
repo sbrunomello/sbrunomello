@@ -16,17 +16,19 @@
 </div>
 
 
-<div style="display: inline_block; margin-bottom: 20px;">
+<div style="display: inline_block; margin: 20px;">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=dark)
-
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
+  -
 </div>
 
-
+<div align="left">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbrunomello&theme=dark" alt="sbrunomello" /></p>
+  
+  ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=dark)
+</div>
