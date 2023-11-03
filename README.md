@@ -28,7 +28,11 @@
 </div>
 
 <div align="left">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbrunomello&theme=dark" alt="sbrunomello" /></p>
+  
   
   ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrunomello&theme=dark)
+
+
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbrunomello&theme=dark" alt="sbrunomello" /></p>
 </div>
