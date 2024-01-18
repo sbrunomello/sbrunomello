@@ -9,10 +9,8 @@
 <!-- <a href="https://github.com/sbrunomello"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sbrunomello?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a><br> -->
 
 
--  I'm a Full stack Developer since 2019 👩‍💻 <br>
+-  I'm a Full stack Developer 👩‍💻 <br>
 -  I like working with Java, Angular and Python 💻 <br>
--  I enjoy learning and applying knowledge 🤓 <br>
--  Continuous improvement is key! 🚀
 </div>
 
 
