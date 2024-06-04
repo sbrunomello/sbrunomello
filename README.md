@@ -1,5 +1,3 @@
-
-## Hello 👋! I'm Bruno Mello 
 <img align="right" alt=" ͡° ͜ʖ ͡°" src="./monkey-developer.gif"  width="300px"/>
 <div align="left">
 <br><a href="https://www.instagram.com/brunomello.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
